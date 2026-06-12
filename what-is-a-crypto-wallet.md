@@ -1,7 +1,7 @@
 # What is a crypto wallet
 
 ## Overview
-A crypto wallet is a tool that allow users to store, send and receive crypto currency securley
+A crypto wallet is a tool that allow users to store, send and receive crypto currency securely
 
 ##Types of Wallets 
 
