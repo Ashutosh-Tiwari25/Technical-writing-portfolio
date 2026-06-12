@@ -24,4 +24,4 @@ A crypto wallet is a tool that allow users to store, send and receive crypto cur
 1. Go to Metmask.io
 2. Click "Download"
 3. Create a new wallet
-4. Save your secret recovery phase safely
+4. Save your secret recovery phrase safely.
